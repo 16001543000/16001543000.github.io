@@ -129,7 +129,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: var(--bg-color);
+        background: transparent;
     }
 
     .home .content {
@@ -204,7 +204,7 @@
         padding: 2rem;
         text-align: center;
         border: .1rem solid var(--border-color);
-        background: #f0f0f0; /* Light grey background */
+        background: transparent;
         transition: background .2s;
         position: relative; /* Needed for button absolute positioning */
     }
@@ -252,7 +252,7 @@
         flex: 1 1 45rem;
         padding: 5rem 2rem;
         text-align: center;
-        background: #e0e0e0; /* Light grey background */
+        background: transparent;
     }
 
     .contact form h3 {
@@ -287,7 +287,7 @@
 
     /* Footer */
     .footer {
-        background: var(--bg-color);
+        background: transparent;
         text-align: center;
         padding: 1rem 0;
     }
