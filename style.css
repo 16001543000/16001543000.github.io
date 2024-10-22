@@ -171,7 +171,7 @@
     .about .row {
         display: flex;
         align-items: center;
-        background: #e0e0e0; /* Light grey background */
+        background: transparent;
         flex-wrap: wrap;
     }
 
